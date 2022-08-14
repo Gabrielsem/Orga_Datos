@@ -21,7 +21,8 @@
 
 ## TP4 -> Machine Learning II
 
-### Aprendizaje No Supervisado
+### Clasificación No Supervisada
+POC: Dado un virus encontrar una forma no supervisada (clustering) de separarlos según tipo de virus.
 
 - Reducción de dimensiones con UMAP.
 - Baseline con Kmeans Sin búsqueda de hiperparámetros.
